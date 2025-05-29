@@ -1,3 +1,4 @@
 # apnacollege.demo
-This is my first Git repository
-Anchor:Harsh Bhatia
+This is my first Git repository.
+<br>
+Anchor-Harsh Bhatia
